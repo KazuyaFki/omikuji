@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2806DD3C-64C6-4C02-A192-61CA26057049"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BBCB7A17-BA98-4D5D-8B0F-DE673BABF898"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "omikuji/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74DBAD08-DE33-4569-8EC6-87A2CD33966E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "omikuji/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F876DD88-C16D-4B7B-BEEC-BE972CD23D8B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "omikuji/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D414A57-838F-47BB-807B-EABD528DADF4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "omikuji/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1D414A57-838F-47BB-807B-EABD528DADF4 - 3d2f54493482d9ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "omikuji.ViewController.omikujiImageView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "omikuji"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kazuya/Desktop/ios_test/omikuji/omikuji/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "1D414A57-838F-47BB-807B-EABD528DADF4 - 3248c4cf915835e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "omikuji.ViewController.omikujiImageView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "omikuji"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kazuya/Desktop/ios_test/omikuji/omikuji/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "1D414A57-838F-47BB-807B-EABD528DADF4 - d0fd9ad1585b7ef0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "omikuji.ViewController.omikujiImageView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "omikuji"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kazuya/Desktop/ios_test/omikuji/omikuji/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "1D414A57-838F-47BB-807B-EABD528DADF4 - faf3abae9757ff00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "omikuji.ViewController.omikujiImageView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "omikuji"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kazuya/Desktop/ios_test/omikuji/omikuji/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "1D414A57-838F-47BB-807B-EABD528DADF4 - 32acedc137c2b6c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "omikuji.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; omikuji.ViewController"
+                  moduleName = "omikuji"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kazuya/Desktop/ios_test/omikuji/omikuji/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1850">
+               </Location>
+               <Location
+                  uuid = "1D414A57-838F-47BB-807B-EABD528DADF4 - 176e13d83581839f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "omikuji.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;omikuji.ViewController&gt;"
+                  moduleName = "omikuji"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kazuya/Desktop/ios_test/omikuji/omikuji/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1785">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
